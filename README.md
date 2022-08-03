@@ -1,4 +1,4 @@
-# myntraClone with FLutter
+# myntraClone with Flutter
 
 A new Flutter project.
 
