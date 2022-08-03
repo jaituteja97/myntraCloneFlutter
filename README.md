@@ -1,4 +1,4 @@
-# interview
+# myntraClone with FLutter
 
 A new Flutter project.
 
