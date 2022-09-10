@@ -1,4 +1,4 @@
-# Myntra Cart Page Clone with Flutter
+# Myntra Cart Page Clone with Flutter Android/IOS
 
 #Output
 
